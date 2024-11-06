@@ -1,0 +1,48 @@
+[
+  {
+    "1": "1.Recently, who has been appointed as the 35th Foreign Secretary of India?",
+    "2": "2.Which day is observed as ‘International Plastic Bag Free Day’?",
+    "3": "3.What is the new upper limit set by the RBI for tax payments via UPI per transaction?",
+    "4": "4.To which country did India export its first GI-tagged fig juice?",
+    "5": "5.Which country recently unveiled the world’s first 6G device?"
+  },
+  {
+    "1": {
+      "a": "Amitabh Kant",
+      "b": "Vikram Misri",
+      "c": "Ruchira Kamboj",
+      "d": "Ajay Bisaria"
+    },
+    "2": {
+      "a": "July 2",
+      "b": "July 3",
+      "c": "July 4",
+      "d": "July 5"
+    },
+    "3": {
+      "a": "Rs 5 Lakh",
+      "b": "Rs 3 Lakh",
+      "c": "Rs 2 Lakh",
+      "d": "Rs 1 Lakh"
+    },
+    "4": {
+      "a": "Hong Kong",
+      "b": "Germany",
+      "c": "France",
+      "d": "Poland"
+    },
+    "5": {
+      "a": "Japan",
+      "b": "China",
+      "c": "Russia",
+      "d": "India"
+    }
+  },
+  {
+    "1": "Vikram Misri",
+    "2": "July 3",
+    "3": "Rs 5 Lakh",
+    "4": "Poland",
+    "5": "Japan"
+  }
+]

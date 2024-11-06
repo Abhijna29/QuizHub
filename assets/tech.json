@@ -1,0 +1,48 @@
+[
+  {
+    "1": "1.Who developed Google?",
+    "2": "2.How many bits are used by the IPv6 address?",
+    "3": "3.Which of the following is not a database management software?",
+    "4": "4.Which of the following is not the function of the Operating System?",
+    "5": "5.Which company has recently introduced a new AI tool that can generate or retexture 3D objects in under a minute?"
+  },
+  {
+    "1": {
+      "a": "Steve case and Jeff Bezos",
+      "b": "Larry Page and Sergey Brin",
+      "c": "David Filo and Jerry Yang",
+      "d": "Dennis Ritchie and Ken Thompson"
+    },
+    "2": {
+      "a": "32 bits",
+      "b": "64 bits",
+      "c": "128 bits",
+      "d": "256 bits"
+    },
+    "3": {
+      "a": "MySql",
+      "b": "Oracle",
+      "c": "Sybase",
+      "d": "COBOL"
+    },
+    "4": {
+      "a": "Memory Management",
+      "b": "I/O Management",
+      "c": "Job Scheduling",
+      "d": "Database Management"
+    },
+    "5": {
+      "a": "Apple",
+      "b": "Microsoft",
+      "c": "Meta",
+      "d": "Google"
+    }
+  },
+  {
+    "1": "Larry Page and Sergey Brin",
+    "2": "128 bits",
+    "3": "COBOL",
+    "4": "Database Management",
+    "5": "Meta"
+  }
+]

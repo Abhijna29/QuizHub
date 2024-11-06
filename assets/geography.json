@@ -1,0 +1,48 @@
+[
+  {
+    "1": "1.Which of the following is known as the diamond city of India?",
+    "2": "2.Saffron is produced in which state of India.",
+    "3": "3.What is the percentage of Nitrogen in atmosphere of the Earth?",
+    "4": "4.Where is Ozone layer found?",
+    "5": "5.How much geograpical area of India is forest land?"
+  },
+  {
+    "1": {
+      "a": "Mumbai",
+      "b": "Kolkata",
+      "c": "Surat",
+      "d": "Pune"
+    },
+    "2": {
+      "a": "Assam",
+      "b": "Jammu and Kashmir",
+      "c": "Meghalaya",
+      "d": "Himachal Pradesh"
+    },
+    "3": {
+      "a": "85.4%",
+      "b": "0.03%",
+      "c": "0.94%",
+      "d": "78.03%"
+    },
+    "4": {
+      "a": "Stratosphere",
+      "b": "Troposphere",
+      "c": "Ionosphere",
+      "d": "Exosphere"
+    },
+    "5": {
+      "a": "20%",
+      "b": "30%",
+      "c": "50%",
+      "d": "15%"
+    }
+  },
+  {
+    "1": "Surat",
+    "2": "Jammu and Kashmir",
+    "3": "78.03%",
+    "4": "Stratosphere",
+    "5": "20%"
+  }
+]

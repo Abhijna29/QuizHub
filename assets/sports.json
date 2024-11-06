@@ -1,0 +1,48 @@
+[
+  {
+    "1": "1.Which Indian chess player holds the prestigious title of Grandmaster?",
+    "2": "2.What year is officially recognized as the beginning of the modern Olympic games?",
+    "3": "3.Name the first woman cricketer to appear in 6 cricket world cups.",
+    "4": "4.Which Indian wrestler announced her retirement following a disqualification at the Paris Olympics 2024?",
+    "5": "5.Which of the following cities is going to held the Summer Olympics of 2024?"
+  },
+  {
+    "1": {
+      "a": "HariKrishna Koneru",
+      "b": "Vishwanath Anand",
+      "c": "Pentala Harikrishna",
+      "d": "Adhiban Baskaran"
+    },
+    "2": {
+      "a": "1886",
+      "b": "1896",
+      "c": "1906",
+      "d": "1916"
+    },
+    "3": {
+      "a": "Mithali Raj",
+      "b": "Smriti Mandhana",
+      "c": "Harmanpreet Kaur",
+      "d": "Jhulan Gowsami"
+    },
+    "4": {
+      "a": "Sakshi Malik",
+      "b": "Vinesh Phogat",
+      "c": "Geeta Phogat",
+      "d": "Babita Kumari"
+    },
+    "5": {
+      "a": "Beijing",
+      "b": "South Korea",
+      "c": "Paris",
+      "d": "Sydney"
+    }
+  },
+  {
+    "1": "Vishwanath Anand",
+    "2": "1896",
+    "3": "Mithali Raj",
+    "4": "Vinesh Phogat",
+    "5": "Paris"
+  }
+]
